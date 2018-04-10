@@ -1,3 +1,3 @@
 # travel-agency-theme
 
-Built with Materialize CSS
+Made with Materialize CSS
